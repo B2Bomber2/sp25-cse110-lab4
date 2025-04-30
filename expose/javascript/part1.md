@@ -17,7 +17,8 @@
 - line 13 is outside the if statement, so result is not defined, leading to an error
 
 6. What is printed by line 9? If the code returns an error, explain why. ^^^^^
-- 
+- This is an error because you are assigning values to constant after the constant was declared. 
 
 7. What is printed by line 13? If the code returns an error, explain why. 
-- 
+- This part did not run because java script stops at an error. 
+
